@@ -1,4 +1,4 @@
-package it.sevenbits.trex;
+package it.sevenbits.ap_hello_world;
 
 import asciiPanel.AsciiPanel;
 

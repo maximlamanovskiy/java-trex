@@ -6,7 +6,7 @@ build:
 	mvn package
 
 exec:
-	java -jar ./target/RogueLikeGame-jar-with-dependencies.jar
+	java -jar ./target/HelloWorld-jar-with-dependencies.jar
 
 clean:
 	rm -rf target
