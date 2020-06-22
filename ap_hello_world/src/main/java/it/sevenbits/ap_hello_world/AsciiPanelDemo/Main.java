@@ -1,4 +1,4 @@
-package it.sevenbits.ap_hello_world;
+package it.sevenbits.ap_hello_world.AsciiPanelDemo;
 
 import asciiPanel.AsciiPanel;
 
